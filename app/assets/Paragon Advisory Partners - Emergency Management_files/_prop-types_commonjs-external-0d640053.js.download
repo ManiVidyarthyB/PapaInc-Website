@@ -1,0 +1,2 @@
+define("@wsb/guac-widget-shared/c/_prop-types_commonjs-external-0d640053.js",["exports"],function(e){"use strict";const o=global.PropTypes||guac["prop-types"];e._=o}),"undefined"!=typeof window&&(window.global=window);
+//# sourceMappingURL=_prop-types_commonjs-external-0d640053.js.map

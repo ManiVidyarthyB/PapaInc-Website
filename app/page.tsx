@@ -33,7 +33,7 @@ export default function Home() {
         <span className="earnout-pill">New from Paragon</span>
         <p className="earnout-text">
           <strong>
-            earn<span className="earnout-accent">out</span>
+            Earn<span className="earnout-accent">Out</span>
           </strong>{" "}
           helps the teams we advise turn every commitment into work that gets done.
         </p>
